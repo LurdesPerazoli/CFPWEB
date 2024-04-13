@@ -1,0 +1,51 @@
+header
+{
+	background-color: #f5b7b1 ;
+	font-family: arial black;
+	color: white;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+header h1{
+	text-align: center;
+	margin-top: 30px;
+}
+
+footer{
+	text-align: center;
+}
+
+nav
+{
+	margin-right: 30px;
+	margin-left: 30px;
+	color:  #6c3483;
+
+}
+*{
+	font-family: arial;
+
+}
+.mibutton{
+	border-color: purple;
+	font-family: arial black;
+}
+td{
+	font-size: 1.2rem;
+	color: purple;
+
+}
+table{
+	margin-left: 20px;
+}
+.micolor{
+	color: #e6b0aa;
+
+}
+h3{
+	margin-left: 20px;
+
+    color: #BE42E6;
+}
